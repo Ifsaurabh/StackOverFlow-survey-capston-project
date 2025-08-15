@@ -1,0 +1,17 @@
+# Core data manipulation
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+
+# Excel file handling (if used for input/output)
+openpyxl
+
+# SQL integration (if using SQLAlchemy for pipeline or analysis)
+sqlalchemy
+
+# Jupyter notebooks (optional, for exploratory analysis or sharing)
+jupyter
+
